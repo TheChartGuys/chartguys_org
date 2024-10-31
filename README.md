@@ -4,7 +4,7 @@ Welcome to the **ChartGuys Organization Hub** repository. This repo serves as th
 
 ## About ChartGuys
 
-ChartGuys is a community-driven platform and website focused on providing educational resources for trading equities. We cover a wide range of trading topics, including technical analysis, market trends, and strategies across various asset classes.
+(ChartGuys)[https://www.chartguys.com] is a community-driven platform and website focused on providing educational resources for trading equities. We cover a wide range of trading topics, including technical analysis, market trends, and strategies across various asset classes.
 
 ## Repository Contents
 
